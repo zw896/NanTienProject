@@ -1,0 +1,156 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/zw896/Desktop/321/Android/Project/Android/app/src/main/AndroidManifest.xml:2:1-92:12
+	package
+		ADDED from /Users/zw896/Desktop/321/Android/Project/Android/app/src/main/AndroidManifest.xml:3:5-31
+		INJECTED from /Users/zw896/Desktop/321/Android/Project/Android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/zw896/Desktop/321/Android/Project/Android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/zw896/Desktop/321/Android/Project/Android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/zw896/Desktop/321/Android/Project/Android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/zw896/Desktop/321/Android/Project/Android/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/zw896/Desktop/321/Android/Project/Android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/zw896/Desktop/321/Android/Project/Android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/zw896/Desktop/321/Android/Project/Android/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /Users/zw896/Desktop/321/Android/Project/Android/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /Users/zw896/Desktop/321/Android/Project/Android/app/src/main/AndroidManifest.xml:7:5-90:19
+MERGED from [com.android.support:design:24.2.1] /Users/zw896/.android/build-cache/aeab0f79c9ce789eeba8f1b656f3e8d78ac21d98/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:24.2.1] /Users/zw896/.android/build-cache/45ca3b6b28bfebb70a1b117d7d028a1cf2fca931/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] /Users/zw896/.android/build-cache/6e86ce3b491a8668beff9721e5c2f91362045d78/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] /Users/zw896/.android/build-cache/be50783c777d4542fbd5563cedb54feade690e33/output/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha8] /Users/zw896/.android/build-cache/be34bf47d0116ced6974dcb76547463a7a051a3d/output/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-v4:24.2.1] /Users/zw896/.android/build-cache/d04020acc421f269e4adb09bef490fb2b4cd65ef/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] /Users/zw896/.android/build-cache/8ab379e930c6746b9ac563b389c41e2d71b3f796/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] /Users/zw896/.android/build-cache/7e89640199f06b9f4757d71f3d1f62d6fb9944c5/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] /Users/zw896/.android/build-cache/c48d2074d94e6c533411914c91c7eadddbad2ca1/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] /Users/zw896/.android/build-cache/25ac46c7938d3af4171b96ca26d0d31450994a4e/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] /Users/zw896/.android/build-cache/29171fd34b9bdccba0ea24de556276a5a4f6885d/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.volley:volley:1.0.0] /Users/zw896/.android/build-cache/06d7f0f5353be28d8a8cfd57665f6a13661bca89/output/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /Users/zw896/Desktop/321/Android/Project/Android/app/src/main/AndroidManifest.xml:10:9-41
+	android:supportsRtl
+		ADDED from /Users/zw896/Desktop/321/Android/Project/Android/app/src/main/AndroidManifest.xml:11:9-35
+	android:allowBackup
+		ADDED from /Users/zw896/Desktop/321/Android/Project/Android/app/src/main/AndroidManifest.xml:8:9-35
+	android:icon
+		ADDED from /Users/zw896/Desktop/321/Android/Project/Android/app/src/main/AndroidManifest.xml:9:9-43
+	android:theme
+		ADDED from /Users/zw896/Desktop/321/Android/Project/Android/app/src/main/AndroidManifest.xml:12:9-40
+activity#digital5.nantien.HomePage
+ADDED from /Users/zw896/Desktop/321/Android/Project/Android/app/src/main/AndroidManifest.xml:13:9-22:20
+	android:label
+		ADDED from /Users/zw896/Desktop/321/Android/Project/Android/app/src/main/AndroidManifest.xml:15:13-45
+	android:theme
+		ADDED from /Users/zw896/Desktop/321/Android/Project/Android/app/src/main/AndroidManifest.xml:16:13-56
+	android:name
+		ADDED from /Users/zw896/Desktop/321/Android/Project/Android/app/src/main/AndroidManifest.xml:14:13-37
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/zw896/Desktop/321/Android/Project/Android/app/src/main/AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from /Users/zw896/Desktop/321/Android/Project/Android/app/src/main/AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from /Users/zw896/Desktop/321/Android/Project/Android/app/src/main/AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/zw896/Desktop/321/Android/Project/Android/app/src/main/AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from /Users/zw896/Desktop/321/Android/Project/Android/app/src/main/AndroidManifest.xml:20:27-74
+activity#digital5.nantien.event_details
+ADDED from /Users/zw896/Desktop/321/Android/Project/Android/app/src/main/AndroidManifest.xml:23:9-37:20
+	android:label
+		ADDED from /Users/zw896/Desktop/321/Android/Project/Android/app/src/main/AndroidManifest.xml:25:13-65
+	android:parentActivityName
+		ADDED from /Users/zw896/Desktop/321/Android/Project/Android/app/src/main/AndroidManifest.xml:26:13-51
+	android:theme
+		ADDED from /Users/zw896/Desktop/321/Android/Project/Android/app/src/main/AndroidManifest.xml:27:13-56
+	android:name
+		ADDED from /Users/zw896/Desktop/321/Android/Project/Android/app/src/main/AndroidManifest.xml:24:13-42
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /Users/zw896/Desktop/321/Android/Project/Android/app/src/main/AndroidManifest.xml:28:13-30:61
+	android:value
+		ADDED from /Users/zw896/Desktop/321/Android/Project/Android/app/src/main/AndroidManifest.xml:30:17-58
+	android:name
+		ADDED from /Users/zw896/Desktop/321/Android/Project/Android/app/src/main/AndroidManifest.xml:29:17-63
+activity#digital5.nantien.ScrollingActivity
+ADDED from /Users/zw896/Desktop/321/Android/Project/Android/app/src/main/AndroidManifest.xml:38:9-41:59
+	android:label
+		ADDED from /Users/zw896/Desktop/321/Android/Project/Android/app/src/main/AndroidManifest.xml:40:13-61
+	android:theme
+		ADDED from /Users/zw896/Desktop/321/Android/Project/Android/app/src/main/AndroidManifest.xml:41:13-56
+	android:name
+		ADDED from /Users/zw896/Desktop/321/Android/Project/Android/app/src/main/AndroidManifest.xml:39:13-46
+activity#digital5.nantien.reflections_list
+ADDED from /Users/zw896/Desktop/321/Android/Project/Android/app/src/main/AndroidManifest.xml:42:9-51:20
+	android:label
+		ADDED from /Users/zw896/Desktop/321/Android/Project/Android/app/src/main/AndroidManifest.xml:44:13-40
+	android:theme
+		ADDED from /Users/zw896/Desktop/321/Android/Project/Android/app/src/main/AndroidManifest.xml:45:13-56
+	android:name
+		ADDED from /Users/zw896/Desktop/321/Android/Project/Android/app/src/main/AndroidManifest.xml:43:13-45
+activity#digital5.nantien.Activity.MainActivity
+ADDED from /Users/zw896/Desktop/321/Android/Project/Android/app/src/main/AndroidManifest.xml:52:9-61:20
+	android:label
+		ADDED from /Users/zw896/Desktop/321/Android/Project/Android/app/src/main/AndroidManifest.xml:54:13-56
+	android:theme
+		ADDED from /Users/zw896/Desktop/321/Android/Project/Android/app/src/main/AndroidManifest.xml:55:13-56
+	android:name
+		ADDED from /Users/zw896/Desktop/321/Android/Project/Android/app/src/main/AndroidManifest.xml:53:13-50
+activity#digital5.nantien.activitiesList
+ADDED from /Users/zw896/Desktop/321/Android/Project/Android/app/src/main/AndroidManifest.xml:62:9-65:59
+	android:label
+		ADDED from /Users/zw896/Desktop/321/Android/Project/Android/app/src/main/AndroidManifest.xml:64:13-67
+	android:theme
+		ADDED from /Users/zw896/Desktop/321/Android/Project/Android/app/src/main/AndroidManifest.xml:65:13-56
+	android:name
+		ADDED from /Users/zw896/Desktop/321/Android/Project/Android/app/src/main/AndroidManifest.xml:63:13-43
+activity#digital5.nantien.Activity.LoginActivity
+ADDED from /Users/zw896/Desktop/321/Android/Project/Android/app/src/main/AndroidManifest.xml:66:9-74:20
+	android:theme
+		ADDED from /Users/zw896/Desktop/321/Android/Project/Android/app/src/main/AndroidManifest.xml:68:13-56
+	android:name
+		ADDED from /Users/zw896/Desktop/321/Android/Project/Android/app/src/main/AndroidManifest.xml:67:13-51
+activity#digital5.nantien.Activity.RegisterActivity
+ADDED from /Users/zw896/Desktop/321/Android/Project/Android/app/src/main/AndroidManifest.xml:75:9-77:59
+	android:theme
+		ADDED from /Users/zw896/Desktop/321/Android/Project/Android/app/src/main/AndroidManifest.xml:77:13-56
+	android:name
+		ADDED from /Users/zw896/Desktop/321/Android/Project/Android/app/src/main/AndroidManifest.xml:76:13-54
+activity#digital5.nantien.feedback
+ADDED from /Users/zw896/Desktop/321/Android/Project/Android/app/src/main/AndroidManifest.xml:78:9-80:59
+	android:theme
+		ADDED from /Users/zw896/Desktop/321/Android/Project/Android/app/src/main/AndroidManifest.xml:80:13-56
+	android:name
+		ADDED from /Users/zw896/Desktop/321/Android/Project/Android/app/src/main/AndroidManifest.xml:79:13-37
+activity#digital5.nantien.Home
+ADDED from /Users/zw896/Desktop/321/Android/Project/Android/app/src/main/AndroidManifest.xml:81:9-89:20
+	android:theme
+		ADDED from /Users/zw896/Desktop/321/Android/Project/Android/app/src/main/AndroidManifest.xml:83:13-56
+	android:name
+		ADDED from /Users/zw896/Desktop/321/Android/Project/Android/app/src/main/AndroidManifest.xml:82:13-33
+uses-sdk
+INJECTED from /Users/zw896/Desktop/321/Android/Project/Android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:24.2.1] /Users/zw896/.android/build-cache/aeab0f79c9ce789eeba8f1b656f3e8d78ac21d98/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:24.2.1] /Users/zw896/.android/build-cache/45ca3b6b28bfebb70a1b117d7d028a1cf2fca931/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] /Users/zw896/.android/build-cache/6e86ce3b491a8668beff9721e5c2f91362045d78/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.2.1] /Users/zw896/.android/build-cache/be50783c777d4542fbd5563cedb54feade690e33/output/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:24.2.1] /Users/zw896/.android/build-cache/5d7cdb8336589989ba335b260a75205496be795b/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha8] /Users/zw896/.android/build-cache/be34bf47d0116ced6974dcb76547463a7a051a3d/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:24.2.1] /Users/zw896/.android/build-cache/d04020acc421f269e4adb09bef490fb2b4cd65ef/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:24.2.1] /Users/zw896/.android/build-cache/8ab379e930c6746b9ac563b389c41e2d71b3f796/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:24.2.1] /Users/zw896/.android/build-cache/7e89640199f06b9f4757d71f3d1f62d6fb9944c5/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:24.2.1] /Users/zw896/.android/build-cache/c48d2074d94e6c533411914c91c7eadddbad2ca1/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:24.2.1] /Users/zw896/.android/build-cache/25ac46c7938d3af4171b96ca26d0d31450994a4e/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:24.2.1] /Users/zw896/.android/build-cache/29171fd34b9bdccba0ea24de556276a5a4f6885d/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.volley:volley:1.0.0] /Users/zw896/.android/build-cache/06d7f0f5353be28d8a8cfd57665f6a13661bca89/output/AndroidManifest.xml:7:5-43
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.2.1] /Users/zw896/.android/build-cache/45ca3b6b28bfebb70a1b117d7d028a1cf2fca931/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/zw896/Desktop/321/Android/Project/Android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/zw896/Desktop/321/Android/Project/Android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/zw896/Desktop/321/Android/Project/Android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/zw896/Desktop/321/Android/Project/Android/app/src/main/AndroidManifest.xml

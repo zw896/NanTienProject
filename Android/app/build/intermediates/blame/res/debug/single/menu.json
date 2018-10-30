@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/Users/PTM/Desktop/CSIT321/Project/Android/app/build/intermediates/res/merged/debug/menu/menu_home_page.xml",
+        "source": "/Users/PTM/Desktop/CSIT321/Project/Android/app/src/main/res/menu/menu_home_page.xml"
+    },
+    {
+        "merged": "/Users/PTM/Desktop/CSIT321/Project/Android/app/build/intermediates/res/merged/debug/menu/menu_event_details.xml",
+        "source": "/Users/PTM/Desktop/CSIT321/Project/Android/app/src/main/res/menu/menu_event_details.xml"
+    },
+    {
+        "merged": "/Users/zw896/Desktop/321/Android/Project/Android/app/build/intermediates/res/merged/debug/menu/notifications.xml",
+        "source": "/Users/zw896/Desktop/321/Android/Project/Android/app/src/main/res/menu/notifications.xml"
+    },
+    {
+        "merged": "/Users/PTM/Desktop/CSIT321/Project/Android/app/build/intermediates/res/merged/debug/menu/menu_activities_list.xml",
+        "source": "/Users/PTM/Desktop/CSIT321/Project/Android/app/src/main/res/menu/menu_activities_list.xml"
+    },
+    {
+        "merged": "/Users/PTM/Desktop/CSIT321/Project/Android/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/PTM/Desktop/CSIT321/Project/Android/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/Users/zw896/Desktop/321/Android/Project/Android/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/zw896/Desktop/321/Android/Project/Android/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/Users/PTM/Desktop/CSIT321/Project/Android/app/build/intermediates/res/merged/debug/menu/drawer_menu.xml",
+        "source": "/Users/PTM/Desktop/CSIT321/Project/Android/app/src/main/res/menu/drawer_menu.xml"
+    },
+    {
+        "merged": "/Users/zw896/Desktop/321/Android/Project/Android/app/build/intermediates/res/merged/debug/menu/menu_event_details.xml",
+        "source": "/Users/zw896/Desktop/321/Android/Project/Android/app/src/main/res/menu/menu_event_details.xml"
+    },
+    {
+        "merged": "/Users/zw896/Desktop/321/Android/Project/Android/app/build/intermediates/res/merged/debug/menu/menu_home_page.xml",
+        "source": "/Users/zw896/Desktop/321/Android/Project/Android/app/src/main/res/menu/menu_home_page.xml"
+    },
+    {
+        "merged": "/Users/zw896/Desktop/321/Android/Project/Android/app/build/intermediates/res/merged/debug/menu/drawer_menu.xml",
+        "source": "/Users/zw896/Desktop/321/Android/Project/Android/app/src/main/res/menu/drawer_menu.xml"
+    },
+    {
+        "merged": "/Users/PTM/Desktop/CSIT321/Project/Android/app/build/intermediates/res/merged/debug/menu/notifications.xml",
+        "source": "/Users/PTM/Desktop/CSIT321/Project/Android/app/src/main/res/menu/notifications.xml"
+    },
+    {
+        "merged": "/Users/zw896/Desktop/321/Android/Project/Android/app/build/intermediates/res/merged/debug/menu/activity_main_drawer.xml",
+        "source": "/Users/zw896/Desktop/321/Android/Project/Android/app/src/main/res/menu/activity_main_drawer.xml"
+    },
+    {
+        "merged": "/Users/zw896/Desktop/321/Android/Project/Android/app/build/intermediates/res/merged/debug/menu/menu_scrolling.xml",
+        "source": "/Users/zw896/Desktop/321/Android/Project/Android/app/src/main/res/menu/menu_scrolling.xml"
+    },
+    {
+        "merged": "/Users/PTM/Desktop/CSIT321/Project/Android/app/build/intermediates/res/merged/debug/menu/menu_scrolling.xml",
+        "source": "/Users/PTM/Desktop/CSIT321/Project/Android/app/src/main/res/menu/menu_scrolling.xml"
+    },
+    {
+        "merged": "/Users/zw896/Desktop/321/Android/Project/Android/app/build/intermediates/res/merged/debug/menu/menu_activities_list.xml",
+        "source": "/Users/zw896/Desktop/321/Android/Project/Android/app/src/main/res/menu/menu_activities_list.xml"
+    },
+    {
+        "merged": "/Users/PTM/Desktop/CSIT321/Project/Android/app/build/intermediates/res/merged/debug/menu/activity_main_drawer.xml",
+        "source": "/Users/PTM/Desktop/CSIT321/Project/Android/app/src/main/res/menu/activity_main_drawer.xml"
+    }
+]

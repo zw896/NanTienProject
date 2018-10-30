@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/PTM/.android/build-cache/fd106774490b4a0b62a446f74600e0e2834b086c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="/Users/PTM/Desktop/CSIT321/Project/Android/app/build/intermediates/pre-dexed/debug/classes_3a5f71e20c5b2578f8c9f04423d3a22edfe99215.jar" />
+    </item>
+
+</items>

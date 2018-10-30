@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/PTM/Desktop/CSIT321/Project/Android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/PTM/.android/build-cache/618ad618abdbded213edca16eadc7f18d13cf755/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/PTM/Desktop/CSIT321/Project/Android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/PTM/.android/build-cache/618ad618abdbded213edca16eadc7f18d13cf755/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/zw896/Desktop/321/Android/Project/Android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/zw896/.android/build-cache/45ca3b6b28bfebb70a1b117d7d028a1cf2fca931/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/zw896/Desktop/321/Android/Project/Android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/zw896/.android/build-cache/45ca3b6b28bfebb70a1b117d7d028a1cf2fca931/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    }
+]

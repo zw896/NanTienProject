@@ -1,0 +1,602 @@
+[
+    {
+        "merged": "/Users/PTM/Desktop/CSIT321/Project/Android/app/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
+        "source": "/Users/PTM/.android/build-cache/79d543a4436e9305b55d5701d66e54f71c7b5732/output/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/Users/PTM/Desktop/CSIT321/Project/Android/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Users/PTM/.android/build-cache/618ad618abdbded213edca16eadc7f18d13cf755/output/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/PTM/Desktop/CSIT321/Project/Android/app/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
+        "source": "/Users/PTM/.android/build-cache/79d543a4436e9305b55d5701d66e54f71c7b5732/output/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/Users/PTM/Desktop/CSIT321/Project/Android/app/build/intermediates/res/merged/debug/layout/content_scrolling.xml",
+        "source": "/Users/PTM/Desktop/CSIT321/Project/Android/app/src/main/res/layout/content_scrolling.xml"
+    },
+    {
+        "merged": "/Users/zw896/Desktop/321/Android/Project/Android/app/build/intermediates/res/merged/debug/layout/design_menu_item_action_area.xml",
+        "source": "/Users/zw896/.android/build-cache/aeab0f79c9ce789eeba8f1b656f3e8d78ac21d98/output/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/Users/zw896/Desktop/321/Android/Project/Android/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/zw896/.android/build-cache/45ca3b6b28bfebb70a1b117d7d028a1cf2fca931/output/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/PTM/Desktop/CSIT321/Project/Android/app/build/intermediates/res/merged/debug/layout/featured_items.xml",
+        "source": "/Users/PTM/Desktop/CSIT321/Project/Android/app/src/main/res/layout/featured_items.xml"
+    },
+    {
+        "merged": "/Users/PTM/Desktop/CSIT321/Project/Android/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/Users/PTM/.android/build-cache/618ad618abdbded213edca16eadc7f18d13cf755/output/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/zw896/Desktop/321/Android/Project/Android/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/zw896/.android/build-cache/45ca3b6b28bfebb70a1b117d7d028a1cf2fca931/output/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/zw896/Desktop/321/Android/Project/Android/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/zw896/.android/build-cache/45ca3b6b28bfebb70a1b117d7d028a1cf2fca931/output/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/PTM/Desktop/CSIT321/Project/Android/app/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
+        "source": "/Users/PTM/.android/build-cache/79d543a4436e9305b55d5701d66e54f71c7b5732/output/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/Users/PTM/Desktop/CSIT321/Project/Android/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/PTM/.android/build-cache/618ad618abdbded213edca16eadc7f18d13cf755/output/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/zw896/Desktop/321/Android/Project/Android/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/Users/zw896/.android/build-cache/45ca3b6b28bfebb70a1b117d7d028a1cf2fca931/output/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/Users/PTM/Desktop/CSIT321/Project/Android/app/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
+        "source": "/Users/PTM/.android/build-cache/79d543a4436e9305b55d5701d66e54f71c7b5732/output/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/Users/zw896/Desktop/321/Android/Project/Android/app/build/intermediates/res/merged/debug/layout/home_events.xml",
+        "source": "/Users/zw896/Desktop/321/Android/Project/Android/app/src/main/res/layout/home_events.xml"
+    },
+    {
+        "merged": "/Users/zw896/Desktop/321/Android/Project/Android/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
+        "source": "/Users/zw896/.android/build-cache/aeab0f79c9ce789eeba8f1b656f3e8d78ac21d98/output/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Users/zw896/Desktop/321/Android/Project/Android/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/Users/zw896/.android/build-cache/45ca3b6b28bfebb70a1b117d7d028a1cf2fca931/output/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/PTM/Desktop/CSIT321/Project/Android/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/PTM/.android/build-cache/618ad618abdbded213edca16eadc7f18d13cf755/output/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/zw896/Desktop/321/Android/Project/Android/app/build/intermediates/res/merged/debug/layout/activity_items.xml",
+        "source": "/Users/zw896/Desktop/321/Android/Project/Android/app/src/main/res/layout/activity_items.xml"
+    },
+    {
+        "merged": "/Users/PTM/Desktop/CSIT321/Project/Android/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/PTM/.android/build-cache/618ad618abdbded213edca16eadc7f18d13cf755/output/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/zw896/Desktop/321/Android/Project/Android/app/build/intermediates/res/merged/debug/layout/fragment_activities_list.xml",
+        "source": "/Users/zw896/Desktop/321/Android/Project/Android/app/src/main/res/layout/fragment_activities_list.xml"
+    },
+    {
+        "merged": "/Users/PTM/Desktop/CSIT321/Project/Android/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/Users/PTM/.android/build-cache/618ad618abdbded213edca16eadc7f18d13cf755/output/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/zw896/Desktop/321/Android/Project/Android/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/Users/zw896/.android/build-cache/45ca3b6b28bfebb70a1b117d7d028a1cf2fca931/output/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/zw896/Desktop/321/Android/Project/Android/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Users/zw896/.android/build-cache/45ca3b6b28bfebb70a1b117d7d028a1cf2fca931/output/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/PTM/Desktop/CSIT321/Project/Android/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/PTM/.android/build-cache/618ad618abdbded213edca16eadc7f18d13cf755/output/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/zw896/Desktop/321/Android/Project/Android/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/zw896/Desktop/321/Android/Project/Android/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/PTM/Desktop/CSIT321/Project/Android/app/build/intermediates/res/merged/debug/layout/activity_scrolling.xml",
+        "source": "/Users/PTM/Desktop/CSIT321/Project/Android/app/src/main/res/layout/activity_scrolling.xml"
+    },
+    {
+        "merged": "/Users/zw896/Desktop/321/Android/Project/Android/app/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
+        "source": "/Users/zw896/.android/build-cache/aeab0f79c9ce789eeba8f1b656f3e8d78ac21d98/output/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/Users/PTM/Desktop/CSIT321/Project/Android/app/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/Users/PTM/.android/build-cache/79d543a4436e9305b55d5701d66e54f71c7b5732/output/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/Users/zw896/Desktop/321/Android/Project/Android/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/zw896/.android/build-cache/45ca3b6b28bfebb70a1b117d7d028a1cf2fca931/output/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/PTM/Desktop/CSIT321/Project/Android/app/build/intermediates/res/merged/debug/layout/activity_event_details.xml",
+        "source": "/Users/PTM/Desktop/CSIT321/Project/Android/app/src/main/res/layout/activity_event_details.xml"
+    },
+    {
+        "merged": "/Users/PTM/Desktop/CSIT321/Project/Android/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/PTM/.android/build-cache/618ad618abdbded213edca16eadc7f18d13cf755/output/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/PTM/Desktop/CSIT321/Project/Android/app/build/intermediates/res/merged/debug/layout/activity_register.xml",
+        "source": "/Users/PTM/Desktop/CSIT321/Project/Android/app/src/main/res/layout/activity_register.xml"
+    },
+    {
+        "merged": "/Users/PTM/Desktop/CSIT321/Project/Android/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/Users/PTM/.android/build-cache/618ad618abdbded213edca16eadc7f18d13cf755/output/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/Users/zw896/Desktop/321/Android/Project/Android/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/zw896/.android/build-cache/45ca3b6b28bfebb70a1b117d7d028a1cf2fca931/output/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/PTM/Desktop/CSIT321/Project/Android/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/PTM/.android/build-cache/618ad618abdbded213edca16eadc7f18d13cf755/output/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/zw896/Desktop/321/Android/Project/Android/app/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
+        "source": "/Users/zw896/.android/build-cache/aeab0f79c9ce789eeba8f1b656f3e8d78ac21d98/output/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/zw896/Desktop/321/Android/Project/Android/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/Users/zw896/.android/build-cache/45ca3b6b28bfebb70a1b117d7d028a1cf2fca931/output/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/PTM/Desktop/CSIT321/Project/Android/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/PTM/.android/build-cache/618ad618abdbded213edca16eadc7f18d13cf755/output/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/PTM/Desktop/CSIT321/Project/Android/app/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
+        "source": "/Users/PTM/.android/build-cache/79d543a4436e9305b55d5701d66e54f71c7b5732/output/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/Users/PTM/Desktop/CSIT321/Project/Android/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/PTM/Desktop/CSIT321/Project/Android/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/zw896/Desktop/321/Android/Project/Android/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/zw896/.android/build-cache/45ca3b6b28bfebb70a1b117d7d028a1cf2fca931/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/PTM/Desktop/CSIT321/Project/Android/app/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
+        "source": "/Users/PTM/.android/build-cache/79d543a4436e9305b55d5701d66e54f71c7b5732/output/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/Users/zw896/Desktop/321/Android/Project/Android/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/zw896/.android/build-cache/45ca3b6b28bfebb70a1b117d7d028a1cf2fca931/output/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/zw896/Desktop/321/Android/Project/Android/app/build/intermediates/res/merged/debug/layout/featured_items.xml",
+        "source": "/Users/zw896/Desktop/321/Android/Project/Android/app/src/main/res/layout/featured_items.xml"
+    },
+    {
+        "merged": "/Users/PTM/Desktop/CSIT321/Project/Android/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/PTM/.android/build-cache/618ad618abdbded213edca16eadc7f18d13cf755/output/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/zw896/Desktop/321/Android/Project/Android/app/build/intermediates/res/merged/debug/layout/activity_event_details.xml",
+        "source": "/Users/zw896/Desktop/321/Android/Project/Android/app/src/main/res/layout/activity_event_details.xml"
+    },
+    {
+        "merged": "/Users/PTM/Desktop/CSIT321/Project/Android/app/build/intermediates/res/merged/debug/layout/design_text_input_password_icon.xml",
+        "source": "/Users/PTM/.android/build-cache/79d543a4436e9305b55d5701d66e54f71c7b5732/output/res/layout/design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "/Users/PTM/Desktop/CSIT321/Project/Android/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/PTM/.android/build-cache/618ad618abdbded213edca16eadc7f18d13cf755/output/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/PTM/Desktop/CSIT321/Project/Android/app/build/intermediates/res/merged/debug/layout/fragment_activities_list.xml",
+        "source": "/Users/PTM/Desktop/CSIT321/Project/Android/app/src/main/res/layout/fragment_activities_list.xml"
+    },
+    {
+        "merged": "/Users/PTM/Desktop/CSIT321/Project/Android/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/PTM/.android/build-cache/618ad618abdbded213edca16eadc7f18d13cf755/output/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/PTM/Desktop/CSIT321/Project/Android/app/build/intermediates/res/merged/debug/layout/activity_items.xml",
+        "source": "/Users/PTM/Desktop/CSIT321/Project/Android/app/src/main/res/layout/activity_items.xml"
+    },
+    {
+        "merged": "/Users/PTM/Desktop/CSIT321/Project/Android/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/PTM/.android/build-cache/618ad618abdbded213edca16eadc7f18d13cf755/output/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/PTM/Desktop/CSIT321/Project/Android/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/PTM/.android/build-cache/618ad618abdbded213edca16eadc7f18d13cf755/output/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/zw896/Desktop/321/Android/Project/Android/app/build/intermediates/res/merged/debug/layout/activity_reflections_list.xml",
+        "source": "/Users/zw896/Desktop/321/Android/Project/Android/app/src/main/res/layout/activity_reflections_list.xml"
+    },
+    {
+        "merged": "/Users/zw896/Desktop/321/Android/Project/Android/app/build/intermediates/res/merged/debug/layout/activity_home.xml",
+        "source": "/Users/zw896/Desktop/321/Android/Project/Android/app/src/main/res/layout/activity_home.xml"
+    },
+    {
+        "merged": "/Users/zw896/Desktop/321/Android/Project/Android/app/build/intermediates/res/merged/debug/layout/design_text_input_password_icon.xml",
+        "source": "/Users/zw896/.android/build-cache/aeab0f79c9ce789eeba8f1b656f3e8d78ac21d98/output/res/layout/design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "/Users/PTM/Desktop/CSIT321/Project/Android/app/build/intermediates/res/merged/debug/layout/activity_home_page.xml",
+        "source": "/Users/PTM/Desktop/CSIT321/Project/Android/app/src/main/res/layout/activity_home_page.xml"
+    },
+    {
+        "merged": "/Users/zw896/Desktop/321/Android/Project/Android/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/zw896/.android/build-cache/45ca3b6b28bfebb70a1b117d7d028a1cf2fca931/output/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/PTM/Desktop/CSIT321/Project/Android/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
+        "source": "/Users/PTM/.android/build-cache/79d543a4436e9305b55d5701d66e54f71c7b5732/output/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Users/zw896/Desktop/321/Android/Project/Android/app/build/intermediates/res/merged/debug/layout/content_event_details.xml",
+        "source": "/Users/zw896/Desktop/321/Android/Project/Android/app/src/main/res/layout/content_event_details.xml"
+    },
+    {
+        "merged": "/Users/PTM/Desktop/CSIT321/Project/Android/app/build/intermediates/res/merged/debug/layout/notification_template_lines.xml",
+        "source": "/Users/PTM/.android/build-cache/618ad618abdbded213edca16eadc7f18d13cf755/output/res/layout/notification_template_lines.xml"
+    },
+    {
+        "merged": "/Users/PTM/Desktop/CSIT321/Project/Android/app/build/intermediates/res/merged/debug/layout/app_bar_main.xml",
+        "source": "/Users/PTM/Desktop/CSIT321/Project/Android/app/src/main/res/layout/app_bar_main.xml"
+    },
+    {
+        "merged": "/Users/zw896/Desktop/321/Android/Project/Android/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/zw896/.android/build-cache/45ca3b6b28bfebb70a1b117d7d028a1cf2fca931/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/PTM/Desktop/CSIT321/Project/Android/app/build/intermediates/res/merged/debug/layout/activity_login.xml",
+        "source": "/Users/PTM/Desktop/CSIT321/Project/Android/app/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/PTM/Desktop/CSIT321/Project/Android/app/build/intermediates/res/merged/debug/layout/event_items.xml",
+        "source": "/Users/PTM/Desktop/CSIT321/Project/Android/app/src/main/res/layout/event_items.xml"
+    },
+    {
+        "merged": "/Users/zw896/Desktop/321/Android/Project/Android/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/zw896/.android/build-cache/45ca3b6b28bfebb70a1b117d7d028a1cf2fca931/output/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/PTM/Desktop/CSIT321/Project/Android/app/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
+        "source": "/Users/PTM/.android/build-cache/618ad618abdbded213edca16eadc7f18d13cf755/output/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/zw896/Desktop/321/Android/Project/Android/app/build/intermediates/res/merged/debug/layout/notification_template_lines.xml",
+        "source": "/Users/zw896/.android/build-cache/45ca3b6b28bfebb70a1b117d7d028a1cf2fca931/output/res/layout/notification_template_lines.xml"
+    },
+    {
+        "merged": "/Users/zw896/Desktop/321/Android/Project/Android/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/Users/zw896/.android/build-cache/aeab0f79c9ce789eeba8f1b656f3e8d78ac21d98/output/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/Users/zw896/Desktop/321/Android/Project/Android/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/zw896/.android/build-cache/45ca3b6b28bfebb70a1b117d7d028a1cf2fca931/output/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/PTM/Desktop/CSIT321/Project/Android/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/PTM/.android/build-cache/618ad618abdbded213edca16eadc7f18d13cf755/output/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/PTM/Desktop/CSIT321/Project/Android/app/build/intermediates/res/merged/debug/layout/content_event_details.xml",
+        "source": "/Users/PTM/Desktop/CSIT321/Project/Android/app/src/main/res/layout/content_event_details.xml"
+    },
+    {
+        "merged": "/Users/PTM/Desktop/CSIT321/Project/Android/app/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
+        "source": "/Users/PTM/.android/build-cache/618ad618abdbded213edca16eadc7f18d13cf755/output/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/zw896/Desktop/321/Android/Project/Android/app/build/intermediates/res/merged/debug/layout/nav_header_main.xml",
+        "source": "/Users/zw896/Desktop/321/Android/Project/Android/app/src/main/res/layout/nav_header_main.xml"
+    },
+    {
+        "merged": "/Users/zw896/Desktop/321/Android/Project/Android/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/zw896/.android/build-cache/45ca3b6b28bfebb70a1b117d7d028a1cf2fca931/output/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/zw896/Desktop/321/Android/Project/Android/app/build/intermediates/res/merged/debug/layout/activity_login.xml",
+        "source": "/Users/zw896/Desktop/321/Android/Project/Android/app/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/zw896/Desktop/321/Android/Project/Android/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/zw896/.android/build-cache/45ca3b6b28bfebb70a1b117d7d028a1cf2fca931/output/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/PTM/Desktop/CSIT321/Project/Android/app/build/intermediates/res/merged/debug/layout/popular_items.xml",
+        "source": "/Users/PTM/Desktop/CSIT321/Project/Android/app/src/main/res/layout/popular_items.xml"
+    },
+    {
+        "merged": "/Users/PTM/Desktop/CSIT321/Project/Android/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/PTM/.android/build-cache/618ad618abdbded213edca16eadc7f18d13cf755/output/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/PTM/Desktop/CSIT321/Project/Android/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/Users/PTM/.android/build-cache/618ad618abdbded213edca16eadc7f18d13cf755/output/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/zw896/Desktop/321/Android/Project/Android/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Users/zw896/.android/build-cache/45ca3b6b28bfebb70a1b117d7d028a1cf2fca931/output/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/PTM/Desktop/CSIT321/Project/Android/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/PTM/.android/build-cache/618ad618abdbded213edca16eadc7f18d13cf755/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/zw896/Desktop/321/Android/Project/Android/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/zw896/.android/build-cache/45ca3b6b28bfebb70a1b117d7d028a1cf2fca931/output/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/PTM/Desktop/CSIT321/Project/Android/app/build/intermediates/res/merged/debug/layout/home_events.xml",
+        "source": "/Users/PTM/Desktop/CSIT321/Project/Android/app/src/main/res/layout/home_events.xml"
+    },
+    {
+        "merged": "/Users/PTM/Desktop/CSIT321/Project/Android/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/Users/PTM/.android/build-cache/618ad618abdbded213edca16eadc7f18d13cf755/output/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/PTM/Desktop/CSIT321/Project/Android/app/build/intermediates/res/merged/debug/layout/nav_header_main.xml",
+        "source": "/Users/PTM/Desktop/CSIT321/Project/Android/app/src/main/res/layout/nav_header_main.xml"
+    },
+    {
+        "merged": "/Users/zw896/Desktop/321/Android/Project/Android/app/build/intermediates/res/merged/debug/layout/design_bottom_sheet_dialog.xml",
+        "source": "/Users/zw896/.android/build-cache/aeab0f79c9ce789eeba8f1b656f3e8d78ac21d98/output/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/Users/PTM/Desktop/CSIT321/Project/Android/app/build/intermediates/res/merged/debug/layout/design_bottom_sheet_dialog.xml",
+        "source": "/Users/PTM/.android/build-cache/79d543a4436e9305b55d5701d66e54f71c7b5732/output/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/Users/zw896/Desktop/321/Android/Project/Android/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/zw896/.android/build-cache/45ca3b6b28bfebb70a1b117d7d028a1cf2fca931/output/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/PTM/Desktop/CSIT321/Project/Android/app/build/intermediates/res/merged/debug/layout/activity_reflections_list.xml",
+        "source": "/Users/PTM/Desktop/CSIT321/Project/Android/app/src/main/res/layout/activity_reflections_list.xml"
+    },
+    {
+        "merged": "/Users/zw896/Desktop/321/Android/Project/Android/app/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
+        "source": "/Users/zw896/.android/build-cache/aeab0f79c9ce789eeba8f1b656f3e8d78ac21d98/output/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/Users/zw896/Desktop/321/Android/Project/Android/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/zw896/.android/build-cache/45ca3b6b28bfebb70a1b117d7d028a1cf2fca931/output/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/zw896/Desktop/321/Android/Project/Android/app/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
+        "source": "/Users/zw896/.android/build-cache/45ca3b6b28bfebb70a1b117d7d028a1cf2fca931/output/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/PTM/Desktop/CSIT321/Project/Android/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/PTM/.android/build-cache/618ad618abdbded213edca16eadc7f18d13cf755/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/PTM/Desktop/CSIT321/Project/Android/app/build/intermediates/res/merged/debug/layout/activity_activities_list.xml",
+        "source": "/Users/PTM/Desktop/CSIT321/Project/Android/app/src/main/res/layout/activity_activities_list.xml"
+    },
+    {
+        "merged": "/Users/zw896/Desktop/321/Android/Project/Android/app/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
+        "source": "/Users/zw896/.android/build-cache/aeab0f79c9ce789eeba8f1b656f3e8d78ac21d98/output/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/Users/PTM/Desktop/CSIT321/Project/Android/app/build/intermediates/res/merged/debug/layout/reflection_items.xml",
+        "source": "/Users/PTM/Desktop/CSIT321/Project/Android/app/src/main/res/layout/reflection_items.xml"
+    },
+    {
+        "merged": "/Users/PTM/Desktop/CSIT321/Project/Android/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/Users/PTM/.android/build-cache/618ad618abdbded213edca16eadc7f18d13cf755/output/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/PTM/Desktop/CSIT321/Project/Android/app/build/intermediates/res/merged/debug/layout/featured_fragment.xml",
+        "source": "/Users/PTM/Desktop/CSIT321/Project/Android/app/src/main/res/layout/featured_fragment.xml"
+    },
+    {
+        "merged": "/Users/zw896/Desktop/321/Android/Project/Android/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/Users/zw896/.android/build-cache/45ca3b6b28bfebb70a1b117d7d028a1cf2fca931/output/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/PTM/Desktop/CSIT321/Project/Android/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/PTM/.android/build-cache/618ad618abdbded213edca16eadc7f18d13cf755/output/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/zw896/Desktop/321/Android/Project/Android/app/build/intermediates/res/merged/debug/layout/activity_activities_list.xml",
+        "source": "/Users/zw896/Desktop/321/Android/Project/Android/app/src/main/res/layout/activity_activities_list.xml"
+    },
+    {
+        "merged": "/Users/zw896/Desktop/321/Android/Project/Android/app/build/intermediates/res/merged/debug/layout/popular_fragment.xml",
+        "source": "/Users/zw896/Desktop/321/Android/Project/Android/app/src/main/res/layout/popular_fragment.xml"
+    },
+    {
+        "merged": "/Users/zw896/Desktop/321/Android/Project/Android/app/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
+        "source": "/Users/zw896/.android/build-cache/45ca3b6b28bfebb70a1b117d7d028a1cf2fca931/output/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/PTM/Desktop/CSIT321/Project/Android/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/PTM/.android/build-cache/618ad618abdbded213edca16eadc7f18d13cf755/output/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/zw896/Desktop/321/Android/Project/Android/app/build/intermediates/res/merged/debug/layout/content_main.xml",
+        "source": "/Users/zw896/Desktop/321/Android/Project/Android/app/src/main/res/layout/content_main.xml"
+    },
+    {
+        "merged": "/Users/PTM/Desktop/CSIT321/Project/Android/app/build/intermediates/res/merged/debug/layout/activity_feedback.xml",
+        "source": "/Users/PTM/Desktop/CSIT321/Project/Android/app/src/main/res/layout/activity_feedback.xml"
+    },
+    {
+        "merged": "/Users/zw896/Desktop/321/Android/Project/Android/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/zw896/.android/build-cache/45ca3b6b28bfebb70a1b117d7d028a1cf2fca931/output/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/PTM/Desktop/CSIT321/Project/Android/app/build/intermediates/res/merged/debug/layout/content_main.xml",
+        "source": "/Users/PTM/Desktop/CSIT321/Project/Android/app/src/main/res/layout/content_main.xml"
+    },
+    {
+        "merged": "/Users/zw896/Desktop/321/Android/Project/Android/app/build/intermediates/res/merged/debug/layout/reflection_items.xml",
+        "source": "/Users/zw896/Desktop/321/Android/Project/Android/app/src/main/res/layout/reflection_items.xml"
+    },
+    {
+        "merged": "/Users/zw896/Desktop/321/Android/Project/Android/app/build/intermediates/res/merged/debug/layout/featured_fragment.xml",
+        "source": "/Users/zw896/Desktop/321/Android/Project/Android/app/src/main/res/layout/featured_fragment.xml"
+    },
+    {
+        "merged": "/Users/zw896/Desktop/321/Android/Project/Android/app/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
+        "source": "/Users/zw896/.android/build-cache/aeab0f79c9ce789eeba8f1b656f3e8d78ac21d98/output/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/Users/PTM/Desktop/CSIT321/Project/Android/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/PTM/.android/build-cache/618ad618abdbded213edca16eadc7f18d13cf755/output/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/zw896/Desktop/321/Android/Project/Android/app/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
+        "source": "/Users/zw896/.android/build-cache/45ca3b6b28bfebb70a1b117d7d028a1cf2fca931/output/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/zw896/Desktop/321/Android/Project/Android/app/build/intermediates/res/merged/debug/layout/event_items.xml",
+        "source": "/Users/zw896/Desktop/321/Android/Project/Android/app/src/main/res/layout/event_items.xml"
+    },
+    {
+        "merged": "/Users/zw896/Desktop/321/Android/Project/Android/app/build/intermediates/res/merged/debug/layout/activity_register.xml",
+        "source": "/Users/zw896/Desktop/321/Android/Project/Android/app/src/main/res/layout/activity_register.xml"
+    },
+    {
+        "merged": "/Users/zw896/Desktop/321/Android/Project/Android/app/build/intermediates/res/merged/debug/layout/activity_feedback.xml",
+        "source": "/Users/zw896/Desktop/321/Android/Project/Android/app/src/main/res/layout/activity_feedback.xml"
+    },
+    {
+        "merged": "/Users/zw896/Desktop/321/Android/Project/Android/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/zw896/.android/build-cache/45ca3b6b28bfebb70a1b117d7d028a1cf2fca931/output/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/zw896/Desktop/321/Android/Project/Android/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/zw896/.android/build-cache/45ca3b6b28bfebb70a1b117d7d028a1cf2fca931/output/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/PTM/Desktop/CSIT321/Project/Android/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/PTM/.android/build-cache/618ad618abdbded213edca16eadc7f18d13cf755/output/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/PTM/Desktop/CSIT321/Project/Android/app/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
+        "source": "/Users/PTM/.android/build-cache/618ad618abdbded213edca16eadc7f18d13cf755/output/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/PTM/Desktop/CSIT321/Project/Android/app/build/intermediates/res/merged/debug/layout/design_menu_item_action_area.xml",
+        "source": "/Users/PTM/.android/build-cache/79d543a4436e9305b55d5701d66e54f71c7b5732/output/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/Users/zw896/Desktop/321/Android/Project/Android/app/build/intermediates/res/merged/debug/layout/activity_scrolling.xml",
+        "source": "/Users/zw896/Desktop/321/Android/Project/Android/app/src/main/res/layout/activity_scrolling.xml"
+    },
+    {
+        "merged": "/Users/PTM/Desktop/CSIT321/Project/Android/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/Users/PTM/.android/build-cache/618ad618abdbded213edca16eadc7f18d13cf755/output/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/PTM/Desktop/CSIT321/Project/Android/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/PTM/.android/build-cache/618ad618abdbded213edca16eadc7f18d13cf755/output/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/zw896/Desktop/321/Android/Project/Android/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/zw896/.android/build-cache/45ca3b6b28bfebb70a1b117d7d028a1cf2fca931/output/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/zw896/Desktop/321/Android/Project/Android/app/build/intermediates/res/merged/debug/layout/content_scrolling.xml",
+        "source": "/Users/zw896/Desktop/321/Android/Project/Android/app/src/main/res/layout/content_scrolling.xml"
+    },
+    {
+        "merged": "/Users/zw896/Desktop/321/Android/Project/Android/app/build/intermediates/res/merged/debug/layout/activity_home_page.xml",
+        "source": "/Users/zw896/Desktop/321/Android/Project/Android/app/src/main/res/layout/activity_home_page.xml"
+    },
+    {
+        "merged": "/Users/zw896/Desktop/321/Android/Project/Android/app/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/Users/zw896/.android/build-cache/aeab0f79c9ce789eeba8f1b656f3e8d78ac21d98/output/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/Users/zw896/Desktop/321/Android/Project/Android/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/zw896/.android/build-cache/45ca3b6b28bfebb70a1b117d7d028a1cf2fca931/output/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/PTM/Desktop/CSIT321/Project/Android/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/Users/PTM/.android/build-cache/618ad618abdbded213edca16eadc7f18d13cf755/output/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/zw896/Desktop/321/Android/Project/Android/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/zw896/.android/build-cache/45ca3b6b28bfebb70a1b117d7d028a1cf2fca931/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/zw896/Desktop/321/Android/Project/Android/app/build/intermediates/res/merged/debug/layout/app_bar_main.xml",
+        "source": "/Users/zw896/Desktop/321/Android/Project/Android/app/src/main/res/layout/app_bar_main.xml"
+    },
+    {
+        "merged": "/Users/PTM/Desktop/CSIT321/Project/Android/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/PTM/.android/build-cache/618ad618abdbded213edca16eadc7f18d13cf755/output/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/zw896/Desktop/321/Android/Project/Android/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/Users/zw896/.android/build-cache/45ca3b6b28bfebb70a1b117d7d028a1cf2fca931/output/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/zw896/Desktop/321/Android/Project/Android/app/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
+        "source": "/Users/zw896/.android/build-cache/aeab0f79c9ce789eeba8f1b656f3e8d78ac21d98/output/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/Users/PTM/Desktop/CSIT321/Project/Android/app/build/intermediates/res/merged/debug/layout/popular_fragment.xml",
+        "source": "/Users/PTM/Desktop/CSIT321/Project/Android/app/src/main/res/layout/popular_fragment.xml"
+    },
+    {
+        "merged": "/Users/PTM/Desktop/CSIT321/Project/Android/app/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
+        "source": "/Users/PTM/.android/build-cache/79d543a4436e9305b55d5701d66e54f71c7b5732/output/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/PTM/Desktop/CSIT321/Project/Android/app/build/intermediates/res/merged/debug/layout/activity_home.xml",
+        "source": "/Users/PTM/Desktop/CSIT321/Project/Android/app/src/main/res/layout/activity_home.xml"
+    },
+    {
+        "merged": "/Users/zw896/Desktop/321/Android/Project/Android/app/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
+        "source": "/Users/zw896/.android/build-cache/aeab0f79c9ce789eeba8f1b656f3e8d78ac21d98/output/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/Users/PTM/Desktop/CSIT321/Project/Android/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/PTM/.android/build-cache/618ad618abdbded213edca16eadc7f18d13cf755/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/zw896/Desktop/321/Android/Project/Android/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/zw896/.android/build-cache/45ca3b6b28bfebb70a1b117d7d028a1cf2fca931/output/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/PTM/Desktop/CSIT321/Project/Android/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/Users/PTM/.android/build-cache/79d543a4436e9305b55d5701d66e54f71c7b5732/output/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/Users/zw896/Desktop/321/Android/Project/Android/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/Users/zw896/.android/build-cache/45ca3b6b28bfebb70a1b117d7d028a1cf2fca931/output/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/PTM/Desktop/CSIT321/Project/Android/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/PTM/.android/build-cache/618ad618abdbded213edca16eadc7f18d13cf755/output/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/zw896/Desktop/321/Android/Project/Android/app/build/intermediates/res/merged/debug/layout/popular_items.xml",
+        "source": "/Users/zw896/Desktop/321/Android/Project/Android/app/src/main/res/layout/popular_items.xml"
+    },
+    {
+        "merged": "/Users/zw896/Desktop/321/Android/Project/Android/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/Users/zw896/.android/build-cache/45ca3b6b28bfebb70a1b117d7d028a1cf2fca931/output/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/zw896/Desktop/321/Android/Project/Android/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/zw896/.android/build-cache/45ca3b6b28bfebb70a1b117d7d028a1cf2fca931/output/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/PTM/Desktop/CSIT321/Project/Android/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Users/PTM/.android/build-cache/618ad618abdbded213edca16eadc7f18d13cf755/output/res/layout/abc_select_dialog_material.xml"
+    }
+]

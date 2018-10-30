@@ -1,0 +1,148 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/PTM/Desktop/CSIT321/Project/Android/app/src/main/AndroidManifest.xml:2:1-80:12
+	package
+		ADDED from /Users/PTM/Desktop/CSIT321/Project/Android/app/src/main/AndroidManifest.xml:3:5-31
+		INJECTED from /Users/PTM/Desktop/CSIT321/Project/Android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/PTM/Desktop/CSIT321/Project/Android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/PTM/Desktop/CSIT321/Project/Android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/PTM/Desktop/CSIT321/Project/Android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/PTM/Desktop/CSIT321/Project/Android/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/PTM/Desktop/CSIT321/Project/Android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/PTM/Desktop/CSIT321/Project/Android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/PTM/Desktop/CSIT321/Project/Android/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /Users/PTM/Desktop/CSIT321/Project/Android/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /Users/PTM/Desktop/CSIT321/Project/Android/app/src/main/AndroidManifest.xml:7:5-78:19
+MERGED from [com.android.support:design:24.2.1] /Users/PTM/.android/build-cache/79d543a4436e9305b55d5701d66e54f71c7b5732/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:24.2.1] /Users/PTM/.android/build-cache/618ad618abdbded213edca16eadc7f18d13cf755/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] /Users/PTM/.android/build-cache/0c9b541c27345f5e256f79b1f05ca0766f27fd5c/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] /Users/PTM/.android/build-cache/2d3c70ead81cde7ffef09f4252e5bf6d3e33df35/output/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha8] /Users/PTM/.android/build-cache/875024534fb967997db2faecca62afe2cfb24fbb/output/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-v4:24.2.1] /Users/PTM/.android/build-cache/35a6e99b954cc66860b95b56c3d8f865c1c170c7/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] /Users/PTM/.android/build-cache/bf17dcbef76be01ff920f9866f9db7f04989b144/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] /Users/PTM/.android/build-cache/45f16d9b60b19096b184fd827e996e3abe69e829/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] /Users/PTM/.android/build-cache/b37da236a4c4aa87d0d0da3db4ebc7559d3f2ebb/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] /Users/PTM/.android/build-cache/49f61d77ac428a082e12eabe2781a10a3dd0cd57/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] /Users/PTM/.android/build-cache/02910a7ab541c009e6f0184a8a3ac30c0abb1477/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.volley:volley:1.0.0] /Users/PTM/.android/build-cache/fd106774490b4a0b62a446f74600e0e2834b086c/output/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /Users/PTM/Desktop/CSIT321/Project/Android/app/src/main/AndroidManifest.xml:10:9-41
+	android:supportsRtl
+		ADDED from /Users/PTM/Desktop/CSIT321/Project/Android/app/src/main/AndroidManifest.xml:11:9-35
+	android:allowBackup
+		ADDED from /Users/PTM/Desktop/CSIT321/Project/Android/app/src/main/AndroidManifest.xml:8:9-35
+	android:icon
+		ADDED from /Users/PTM/Desktop/CSIT321/Project/Android/app/src/main/AndroidManifest.xml:9:9-43
+	android:theme
+		ADDED from /Users/PTM/Desktop/CSIT321/Project/Android/app/src/main/AndroidManifest.xml:12:9-40
+activity#digital5.nantien.HomePage
+ADDED from /Users/PTM/Desktop/CSIT321/Project/Android/app/src/main/AndroidManifest.xml:13:9-22:20
+	android:label
+		ADDED from /Users/PTM/Desktop/CSIT321/Project/Android/app/src/main/AndroidManifest.xml:15:13-45
+	android:theme
+		ADDED from /Users/PTM/Desktop/CSIT321/Project/Android/app/src/main/AndroidManifest.xml:16:13-56
+	android:name
+		ADDED from /Users/PTM/Desktop/CSIT321/Project/Android/app/src/main/AndroidManifest.xml:14:13-37
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/PTM/Desktop/CSIT321/Project/Android/app/src/main/AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from /Users/PTM/Desktop/CSIT321/Project/Android/app/src/main/AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from /Users/PTM/Desktop/CSIT321/Project/Android/app/src/main/AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/PTM/Desktop/CSIT321/Project/Android/app/src/main/AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from /Users/PTM/Desktop/CSIT321/Project/Android/app/src/main/AndroidManifest.xml:20:27-74
+activity#digital5.nantien.event_details
+ADDED from /Users/PTM/Desktop/CSIT321/Project/Android/app/src/main/AndroidManifest.xml:23:9-37:20
+	android:label
+		ADDED from /Users/PTM/Desktop/CSIT321/Project/Android/app/src/main/AndroidManifest.xml:25:13-65
+	android:parentActivityName
+		ADDED from /Users/PTM/Desktop/CSIT321/Project/Android/app/src/main/AndroidManifest.xml:26:13-51
+	android:theme
+		ADDED from /Users/PTM/Desktop/CSIT321/Project/Android/app/src/main/AndroidManifest.xml:27:13-56
+	android:name
+		ADDED from /Users/PTM/Desktop/CSIT321/Project/Android/app/src/main/AndroidManifest.xml:24:13-42
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /Users/PTM/Desktop/CSIT321/Project/Android/app/src/main/AndroidManifest.xml:28:13-30:61
+	android:value
+		ADDED from /Users/PTM/Desktop/CSIT321/Project/Android/app/src/main/AndroidManifest.xml:30:17-58
+	android:name
+		ADDED from /Users/PTM/Desktop/CSIT321/Project/Android/app/src/main/AndroidManifest.xml:29:17-63
+activity#digital5.nantien.ScrollingActivity
+ADDED from /Users/PTM/Desktop/CSIT321/Project/Android/app/src/main/AndroidManifest.xml:38:9-41:59
+	android:label
+		ADDED from /Users/PTM/Desktop/CSIT321/Project/Android/app/src/main/AndroidManifest.xml:40:13-61
+	android:theme
+		ADDED from /Users/PTM/Desktop/CSIT321/Project/Android/app/src/main/AndroidManifest.xml:41:13-56
+	android:name
+		ADDED from /Users/PTM/Desktop/CSIT321/Project/Android/app/src/main/AndroidManifest.xml:39:13-46
+activity#digital5.nantien.reflections_list
+ADDED from /Users/PTM/Desktop/CSIT321/Project/Android/app/src/main/AndroidManifest.xml:42:9-52:20
+	android:label
+		ADDED from /Users/PTM/Desktop/CSIT321/Project/Android/app/src/main/AndroidManifest.xml:44:13-40
+	android:parentActivityName
+		ADDED from /Users/PTM/Desktop/CSIT321/Project/Android/app/src/main/AndroidManifest.xml:45:13-64
+	android:theme
+		ADDED from /Users/PTM/Desktop/CSIT321/Project/Android/app/src/main/AndroidManifest.xml:46:13-56
+	android:name
+		ADDED from /Users/PTM/Desktop/CSIT321/Project/Android/app/src/main/AndroidManifest.xml:43:13-45
+activity#digital5.nantien.Activity.MainActivity
+ADDED from /Users/PTM/Desktop/CSIT321/Project/Android/app/src/main/AndroidManifest.xml:53:9-62:20
+	android:label
+		ADDED from /Users/PTM/Desktop/CSIT321/Project/Android/app/src/main/AndroidManifest.xml:55:13-56
+	android:theme
+		ADDED from /Users/PTM/Desktop/CSIT321/Project/Android/app/src/main/AndroidManifest.xml:56:13-56
+	android:name
+		ADDED from /Users/PTM/Desktop/CSIT321/Project/Android/app/src/main/AndroidManifest.xml:54:13-50
+activity#digital5.nantien.activitiesList
+ADDED from /Users/PTM/Desktop/CSIT321/Project/Android/app/src/main/AndroidManifest.xml:63:9-66:59
+	android:label
+		ADDED from /Users/PTM/Desktop/CSIT321/Project/Android/app/src/main/AndroidManifest.xml:65:13-67
+	android:theme
+		ADDED from /Users/PTM/Desktop/CSIT321/Project/Android/app/src/main/AndroidManifest.xml:66:13-56
+	android:name
+		ADDED from /Users/PTM/Desktop/CSIT321/Project/Android/app/src/main/AndroidManifest.xml:64:13-43
+activity#digital5.nantien.Activity.LoginActivity
+ADDED from /Users/PTM/Desktop/CSIT321/Project/Android/app/src/main/AndroidManifest.xml:67:9-73:20
+	android:name
+		ADDED from /Users/PTM/Desktop/CSIT321/Project/Android/app/src/main/AndroidManifest.xml:67:19-57
+activity#digital5.nantien.Activity.RegisterActivity
+ADDED from /Users/PTM/Desktop/CSIT321/Project/Android/app/src/main/AndroidManifest.xml:74:9-63
+	android:name
+		ADDED from /Users/PTM/Desktop/CSIT321/Project/Android/app/src/main/AndroidManifest.xml:74:19-60
+activity#digital5.nantien.feedback
+ADDED from /Users/PTM/Desktop/CSIT321/Project/Android/app/src/main/AndroidManifest.xml:75:9-77:68
+	android:theme
+		ADDED from /Users/PTM/Desktop/CSIT321/Project/Android/app/src/main/AndroidManifest.xml:77:13-56
+	android:name
+		ADDED from /Users/PTM/Desktop/CSIT321/Project/Android/app/src/main/AndroidManifest.xml:76:13-37
+uses-sdk
+INJECTED from /Users/PTM/Desktop/CSIT321/Project/Android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:24.2.1] /Users/PTM/.android/build-cache/79d543a4436e9305b55d5701d66e54f71c7b5732/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:24.2.1] /Users/PTM/.android/build-cache/618ad618abdbded213edca16eadc7f18d13cf755/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] /Users/PTM/.android/build-cache/0c9b541c27345f5e256f79b1f05ca0766f27fd5c/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.2.1] /Users/PTM/.android/build-cache/2d3c70ead81cde7ffef09f4252e5bf6d3e33df35/output/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:24.2.1] /Users/PTM/.android/build-cache/9bd03c9c2b79619b3ceae8b57f68c95a3ed13404/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha8] /Users/PTM/.android/build-cache/875024534fb967997db2faecca62afe2cfb24fbb/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:24.2.1] /Users/PTM/.android/build-cache/35a6e99b954cc66860b95b56c3d8f865c1c170c7/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:24.2.1] /Users/PTM/.android/build-cache/bf17dcbef76be01ff920f9866f9db7f04989b144/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:24.2.1] /Users/PTM/.android/build-cache/45f16d9b60b19096b184fd827e996e3abe69e829/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:24.2.1] /Users/PTM/.android/build-cache/b37da236a4c4aa87d0d0da3db4ebc7559d3f2ebb/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:24.2.1] /Users/PTM/.android/build-cache/49f61d77ac428a082e12eabe2781a10a3dd0cd57/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:24.2.1] /Users/PTM/.android/build-cache/02910a7ab541c009e6f0184a8a3ac30c0abb1477/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.volley:volley:1.0.0] /Users/PTM/.android/build-cache/fd106774490b4a0b62a446f74600e0e2834b086c/output/AndroidManifest.xml:7:5-43
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.2.1] /Users/PTM/.android/build-cache/618ad618abdbded213edca16eadc7f18d13cf755/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/PTM/Desktop/CSIT321/Project/Android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/PTM/Desktop/CSIT321/Project/Android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/PTM/Desktop/CSIT321/Project/Android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/PTM/Desktop/CSIT321/Project/Android/app/src/main/AndroidManifest.xml

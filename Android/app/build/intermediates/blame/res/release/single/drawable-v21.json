@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/PTM/Desktop/CSIT321/Project/Android/app/build/intermediates/res/merged/release/drawable-v21/ic_menu_send.xml",
+        "source": "/Users/PTM/Desktop/CSIT321/Project/Android/app/src/main/res/drawable-v21/ic_menu_send.xml"
+    },
+    {
+        "merged": "/Users/PTM/Desktop/CSIT321/Project/Android/app/build/intermediates/res/merged/release/drawable-v21/ic_menu_slideshow.xml",
+        "source": "/Users/PTM/Desktop/CSIT321/Project/Android/app/src/main/res/drawable-v21/ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "/Users/PTM/Desktop/CSIT321/Project/Android/app/build/intermediates/res/merged/release/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/PTM/.android/build-cache/618ad618abdbded213edca16eadc7f18d13cf755/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/PTM/Desktop/CSIT321/Project/Android/app/build/intermediates/res/merged/release/drawable-v21/ic_menu_manage.xml",
+        "source": "/Users/PTM/Desktop/CSIT321/Project/Android/app/src/main/res/drawable-v21/ic_menu_manage.xml"
+    },
+    {
+        "merged": "/Users/PTM/Desktop/CSIT321/Project/Android/app/build/intermediates/res/merged/release/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/PTM/.android/build-cache/618ad618abdbded213edca16eadc7f18d13cf755/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/PTM/Desktop/CSIT321/Project/Android/app/build/intermediates/res/merged/release/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/PTM/.android/build-cache/618ad618abdbded213edca16eadc7f18d13cf755/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/PTM/Desktop/CSIT321/Project/Android/app/build/intermediates/res/merged/release/drawable-v21/ic_menu_camera.xml",
+        "source": "/Users/PTM/Desktop/CSIT321/Project/Android/app/src/main/res/drawable-v21/ic_menu_camera.xml"
+    },
+    {
+        "merged": "/Users/PTM/Desktop/CSIT321/Project/Android/app/build/intermediates/res/merged/release/drawable-v21/ic_menu_gallery.xml",
+        "source": "/Users/PTM/Desktop/CSIT321/Project/Android/app/src/main/res/drawable-v21/ic_menu_gallery.xml"
+    },
+    {
+        "merged": "/Users/PTM/Desktop/CSIT321/Project/Android/app/build/intermediates/res/merged/release/drawable-v21/ic_menu_share.xml",
+        "source": "/Users/PTM/Desktop/CSIT321/Project/Android/app/src/main/res/drawable-v21/ic_menu_share.xml"
+    }
+]

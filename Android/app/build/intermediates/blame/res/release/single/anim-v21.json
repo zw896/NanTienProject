@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/PTM/Desktop/CSIT321/Project/Android/app/build/intermediates/res/merged/release/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/PTM/.android/build-cache/79d543a4436e9305b55d5701d66e54f71c7b5732/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/PTM/Desktop/CSIT321/Project/Android/app/build/intermediates/res/merged/release/anim-v21/design_appbar_state_list_animator.xml",
+        "source": "/Users/PTM/.android/build-cache/79d543a4436e9305b55d5701d66e54f71c7b5732/output/res/anim-v21/design_appbar_state_list_animator.xml"
+    },
+    {
+        "merged": "/Users/PTM/Desktop/CSIT321/Project/Android/app/build/intermediates/res/merged/release/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/PTM/.android/build-cache/79d543a4436e9305b55d5701d66e54f71c7b5732/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    }
+]

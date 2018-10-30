@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="digital5.nantien.event_details"
+    tools:showIn="@layout/activity_event_details">
+
+
+    <LinearLayout
+        android:id="@+id/date_container"
+        android:paddingTop="30dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/date_label"
+                android:layout_width="180dp"
+                android:layout_height="25dp"
+                android:layout_weight="1"
+                android:paddingLeft="20dp"
+                android:text="Date"
+                android:textColor="@android:color/black"
+                android:textSize="9pt" />
+
+            <TextView
+                android:id="@+id/date_value"
+                android:layout_width="180dp"
+                android:layout_height="25dp"
+                android:layout_gravity="right"
+                android:layout_weight="1"
+                android:text="30.03.2017"
+                android:textSize="9pt" />
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:paddingTop="10dp"
+            android:orientation="horizontal">
+
+
+            <TextView
+                android:id="@+id/time_label"
+                android:layout_width="180dp"
+                android:layout_height="25dp"
+                android:paddingLeft="20dp"
+                android:layout_gravity="right"
+                android:layout_weight="1"
+                android:text="Time"
+                android:textColor="@android:color/black"
+                android:textSize="9pt" />
+
+            <TextView
+                android:id="@+id/time_value"
+                android:layout_width="180dp"
+                android:layout_height="25dp"
+                android:layout_weight="1"
+                android:text="13:30"
+                android:textSize="9pt" />
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:paddingTop="10dp"
+            android:orientation="horizontal">
+
+
+            <TextView
+                android:id="@+id/location_label"
+                android:layout_width="180dp"
+                android:layout_height="25dp"
+                android:paddingLeft="20dp"
+                android:layout_gravity="right"
+                android:layout_weight="1"
+                android:text="Location"
+                android:textColor="@android:color/black"
+                android:textSize="9pt" />
+
+            <TextView
+                android:id="@+id/location_value"
+                android:layout_width="180dp"
+                android:layout_height="25dp"
+                android:layout_weight="1"
+                android:text="Nantien Temple"
+                android:textSize="9pt" />
+
+
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/event_details_text"
+            android:padding="30dp"
+            android:paddingLeft="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/large_text" />
+
+    </LinearLayout>
+
+</android.support.v4.widget.NestedScrollView>

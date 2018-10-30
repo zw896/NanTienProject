@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/PTM/Desktop/CSIT321/Project/Android/app/build/intermediates/res/merged/release/menu/menu_activities_list.xml",
+        "source": "/Users/PTM/Desktop/CSIT321/Project/Android/app/src/main/res/menu/menu_activities_list.xml"
+    },
+    {
+        "merged": "/Users/PTM/Desktop/CSIT321/Project/Android/app/build/intermediates/res/merged/release/menu/menu_home_page.xml",
+        "source": "/Users/PTM/Desktop/CSIT321/Project/Android/app/src/main/res/menu/menu_home_page.xml"
+    },
+    {
+        "merged": "/Users/PTM/Desktop/CSIT321/Project/Android/app/build/intermediates/res/merged/release/menu/drawer_menu.xml",
+        "source": "/Users/PTM/Desktop/CSIT321/Project/Android/app/src/main/res/menu/drawer_menu.xml"
+    },
+    {
+        "merged": "/Users/PTM/Desktop/CSIT321/Project/Android/app/build/intermediates/res/merged/release/menu/activity_main_drawer.xml",
+        "source": "/Users/PTM/Desktop/CSIT321/Project/Android/app/src/main/res/menu/activity_main_drawer.xml"
+    },
+    {
+        "merged": "/Users/PTM/Desktop/CSIT321/Project/Android/app/build/intermediates/res/merged/release/menu/menu_event_details.xml",
+        "source": "/Users/PTM/Desktop/CSIT321/Project/Android/app/src/main/res/menu/menu_event_details.xml"
+    },
+    {
+        "merged": "/Users/PTM/Desktop/CSIT321/Project/Android/app/build/intermediates/res/merged/release/menu/notifications.xml",
+        "source": "/Users/PTM/Desktop/CSIT321/Project/Android/app/src/main/res/menu/notifications.xml"
+    },
+    {
+        "merged": "/Users/PTM/Desktop/CSIT321/Project/Android/app/build/intermediates/res/merged/release/menu/main.xml",
+        "source": "/Users/PTM/Desktop/CSIT321/Project/Android/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/Users/PTM/Desktop/CSIT321/Project/Android/app/build/intermediates/res/merged/release/menu/menu_scrolling.xml",
+        "source": "/Users/PTM/Desktop/CSIT321/Project/Android/app/src/main/res/menu/menu_scrolling.xml"
+    }
+]
